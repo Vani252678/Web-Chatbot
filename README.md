@@ -1,2 +1,2 @@
 # CHAT_GPT
-All project developed using chat GPT and Open AI API
+A project made to create a chatbot just like Chatgpt but in an innovative way
